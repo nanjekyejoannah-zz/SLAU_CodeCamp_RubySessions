@@ -26,7 +26,7 @@ class Animal
 
 	#instance method
 	def Animal.shoutit
-		puts "my name is #{name}"
+		puts "my name is who I am"
 	end
 end
 
